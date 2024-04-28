@@ -3,7 +3,7 @@
 </div>
 
 ## 🐝 Desafios Beecrowd
-Esse repositório contém minhas soluções para os desafios de programação da plataforma Beecrowd.Estou usando esses desafios para praticar minhas habilidades com a linguagem Java.
+Esse repositório contém minhas soluções para os desafios de programação da plataforma Beecrowd. Estou usando esses desafios para praticar minhas habilidades com a linguagem Java.
 
 ## 📒 Sobre
 Você pode entrar em contato comigo através do GitHub ou [Linkedin](https://www.linkedin.com/in/gabitrombetta/).
