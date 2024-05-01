@@ -9,3 +9,7 @@ Esse repositório contém minhas soluções para os desafios de programação da
 Você pode entrar em contato comigo através do GitHub ou [Linkedin](https://www.linkedin.com/in/gabitrombetta/).
 
 Aqui está o link da plataforma [Beecrowd](https://judge.beecrowd.com/pt) caso tenha interesse em conhecer.
+
+## 👩🏻‍💻 Gabriela Trombetta
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabitrombetta/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabitrombetta)
