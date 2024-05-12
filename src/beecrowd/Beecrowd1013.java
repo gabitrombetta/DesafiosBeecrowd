@@ -1,4 +1,4 @@
-package beecrowd.iniciante;
+package beecrowd;
 
 import java.util.Scanner;
 

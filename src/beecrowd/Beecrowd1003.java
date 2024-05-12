@@ -1,16 +1,16 @@
-package beecrowd.iniciante;
+package beecrowd;
 
 import java.util.Scanner;
 
-public class Beecrowd1004 {
+public class Beecrowd1003 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
         int a = entrada.nextInt();
         int b = entrada.nextInt();
 
-        int prod = a * b;
+        int soma = a + b;
 
-        System.out.println(String.format("PROD = %d", prod));
+        System.out.println(String.format("SOMA = %d", soma));
     }
 }
